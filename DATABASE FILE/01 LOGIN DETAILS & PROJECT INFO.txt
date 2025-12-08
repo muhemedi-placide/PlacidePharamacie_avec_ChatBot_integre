@@ -1,0 +1,21 @@
+
+
+**Database Name: simplepharmacy**
+
+**Developed by Aung Naing Thu**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Login Details**
+
+Username: placide
+Password: placide1999pld
+
+
+**All the downloaded invoices(pdf) are stored under the directory " C:/invoices/ "**
+
+**All the downloaded invoices(pdf) are stored under the directory " C:/invoices/ "**
+
+
+
